@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\bin\Debug\kakeibo.exe.config
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\bin\Debug\kakeibo.exe
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\bin\Debug\kakeibo.pdb
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.Form1.resources
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.ItemForm.resources
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.Properties.Resources.resources
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.exe
+C:\Users\Public\Documents\C#\kakeibo\kakeibo\obj\Debug\kakeibo.pdb

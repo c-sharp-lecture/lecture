@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\C#\memo\memo\bin\Debug\memo.exe.config
+C:\Users\Public\Documents\C#\memo\memo\bin\Debug\memo.exe
+C:\Users\Public\Documents\C#\memo\memo\bin\Debug\memo.pdb
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.FormFusen.resources
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.Properties.Resources.resources
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.exe
+C:\Users\Public\Documents\C#\memo\memo\obj\Debug\memo.pdb

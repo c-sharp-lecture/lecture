@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\C#\Keisan\Keisan\bin\Debug\Keisan.exe.config
+C:\Users\Public\Documents\C#\Keisan\Keisan\bin\Debug\Keisan.exe
+C:\Users\Public\Documents\C#\Keisan\Keisan\bin\Debug\Keisan.pdb
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.Form1.resources
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.Properties.Resources.resources
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.exe
+C:\Users\Public\Documents\C#\Keisan\Keisan\obj\Debug\Keisan.pdb

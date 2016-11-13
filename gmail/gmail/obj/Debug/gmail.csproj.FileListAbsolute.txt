@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\C#\gmail\gmail\bin\Debug\gmail.exe.config
+C:\Users\Public\Documents\C#\gmail\gmail\bin\Debug\gmail.exe
+C:\Users\Public\Documents\C#\gmail\gmail\bin\Debug\gmail.pdb
+C:\Users\Public\Documents\C#\gmail\gmail\bin\Debug\OpenPop.dll
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.FormGMailCheck.resources
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.Properties.Resources.resources
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.exe
+C:\Users\Public\Documents\C#\gmail\gmail\obj\Debug\gmail.pdb

@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\C#\matigai\matigai\bin\Debug\matigai.exe.config
+C:\Users\Public\Documents\C#\matigai\matigai\bin\Debug\matigai.exe
+C:\Users\Public\Documents\C#\matigai\matigai\bin\Debug\matigai.pdb
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.FormGame.resources
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.Properties.Resources.resources
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.exe
+C:\Users\Public\Documents\C#\matigai\matigai\obj\Debug\matigai.pdb
